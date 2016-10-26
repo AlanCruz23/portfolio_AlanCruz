@@ -1,0 +1,45 @@
+ol{
+font-size: 15px;
+font-family: sans-serif;
+color: white;
+}
+
+ul{
+  font-size: 15px;
+  font-family: sans-serif;
+  color: white;
+
+}
+
+nav{
+font-size: 15px;
+text-align: center;
+}
+td{
+  height: auto;
+  width: auto;
+  background-color: grey;
+  border-radius: 10em;
+  text-align: center;
+}
+
+body {
+font-size: 1em;
+font-weight: normal;
+font-family : Arial, sans-serif;
+color: #000000; /* black */
+text-align: left;
+background-color: black;
+}
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #0000ff; /* blue */
+  text-align: center;
+}
+h2{
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  color: blue;
+  background-color: grey;
+}
