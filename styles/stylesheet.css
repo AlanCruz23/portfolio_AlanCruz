@@ -1,45 +1,42 @@
 ol{
 font-size: 15px;
-font-family: sans-serif;
-color: white;
+font-family: serif;
+color:#96ACB7;
 }
 
 ul{
   font-size: 15px;
-  font-family: sans-serif;
-  color: white;
+  font-family: cursive;;
+  color: #96ACB7;
+
 
 }
 
 nav{
 font-size: 15px;
-text-align: center;
-}
-td{
-  height: auto;
-  width: auto;
-  background-color: grey;
-  border-radius: 10em;
-  text-align: center;
+text-align: left;
+font-family: fantasy;
 }
 
 body {
 font-size: 1em;
 font-weight: normal;
 font-family : Arial, sans-serif;
-color: #000000; /* black */
+color: #5a464c; /* PEWTER BLUE*/
 text-align: left;
-background-color: black;
+background-color: #53131e;
+border-radius: 10px;
 }
 h1 {
   font-size: 1.8em;
   font-weight: bold;
-  color: #0000ff; /* blue */
+  color: #5a464c; /* PEWTER BLUE*/
   text-align: center;
+  background-color: #ffefbd;
 }
 h2{
   font-size: 20px;
-  font-family: Arial, sans-serif;
-  color: blue;
-  background-color: grey;
+  font-family: monospace;;
+  color: #5a464c; /* PEWTER BLUE*/
+  background-color: #ffefbd;
 }
