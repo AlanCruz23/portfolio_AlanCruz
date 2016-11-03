@@ -40,3 +40,10 @@ h2{
   color: #5a464c; /* PEWTER BLUE*/
   background-color: #ffefbd;
 }
+
+h3{
+  font-family: monospace;
+  font-size: 15px;
+  color: #5a464c; /* PEWTER BLUE*/
+  background-color: #ffefbd;
+}
