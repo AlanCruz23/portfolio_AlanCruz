@@ -48,10 +48,16 @@ h3{
   background-color: #ffefbd;
 }
 
+a {
+  color: #ffefbd;
+  font-size: 16px;
+  font-weight: bold;
+}
+
 /*
 color scheme{
 #ffefbd: BLOND
 #5a464c: QUARTZ
 #53131e:DARK SCARLET
 #96ACB7: PEWTER BLUE
-}
+}*/

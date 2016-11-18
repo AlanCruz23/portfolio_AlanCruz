@@ -1,0 +1,16 @@
+.rectangle {
+font-family: "Helvetica";
+font-size: 1em;
+background-color: white;
+border: 1px solid black;
+height: 300px;
+width: 800px;
+margin: 0 auto;
+}
+#kerning {
+  letter-spacing: 6px;
+}
+
+#leading {
+    line-height: 275%;
+}
