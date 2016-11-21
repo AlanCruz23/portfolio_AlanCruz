@@ -14,3 +14,24 @@ margin: 0 auto;
 #leading {
     line-height: 275%;
 }
+
+
+.align {
+  max-width: 80%;
+  margin: 1em auto;
+}
+
+#left_align {
+  text-align: left;
+}
+
+#right_align {
+  text-align: right;
+}
+
+#justify {
+  text-align: justify;
+
+#center {
+  text-align: center;
+}
