@@ -1,16 +1,31 @@
 
 @import url('https://fonts.googleapis.com/css?family=Galada');
-
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Shrikhand');
 
 #Mother{
   font-size: 1em;
-  background-color: #D84797;
-  border: 1px solid black;
+  background-color: #613F75;
+  border: 5px solid black;
   height: 300px;
-  width: 800px;
-  margin: 0 auto;
+  width: 400px;
+  margin: 5% auto;
   text-align: center;
   font-size: 2em;
-  font-family: Galada;
-  color: black
+  font-family: "Galada";
+  color: #009FFD;
+  padding: 20px;
+}
+
+#Reason{
+  background-color: #1B2A41;
+  margin: 5% auto;
+  font-size: 1em;
+  border: 5px solid black;
+  height: 300px;
+  width: 400px;
+  text-align: center;
+  font-size: 2em;
+  font-family:"Shrikhand";
+  color: #00FFCD;
+  padding: 20px;
 }
