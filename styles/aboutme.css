@@ -18,9 +18,10 @@ h1{
 h2{
   font-family: "Merriweather";
   text-align: center;
-  color: #e81c4f;
+  color: white;
   padding: 0;
   font-size: 1.3em;
+  background-color:  #e81c4f;
 }
 
 a{
@@ -37,4 +38,34 @@ a{
   max-width: 500px;
   display: block;
   -webkit-transform: rotate(90deg);
+  margin-bottom: 100px;
+  margin-top: 100px;
+  clear: both
+}
+
+.bioDetails{
+  width: 20%;
+  float: left;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  text-align: center;
+}
+
+div ul li {
+  margin-bottom: 20px;
+}
+
+div ul{
+  padding: 10px;
+}
+
+nav ul li{
+  float: left;
+  width: 12%;
+  margin-bottom: 30px;
 }
