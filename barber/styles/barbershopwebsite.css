@@ -1,0 +1,110 @@
+
+/*This line is telling any browser that doesn't supprt the newer HTML5 elements how thos should be displayed. In this case they should be treated as block-level elements.*/
+aside, article, section, header, footer, nav {
+	display: block;
+/* CSS Resets*/
+}
+div, h1, h2, h3, p, img {
+	margin: 0;
+	padding: 0;
+/* CSS Resets*/
+}
+html {
+	margin: 0;
+	padding: 0;
+	background: rgb(100, 98, 102);
+}/*Padding to keep content from bottom of page */
+
+body {
+	padding: 0 0 25px;
+	font: 100% Georgia, Times, serif;
+	background: rgb(255, 255, 255);
+  width: 900px;
+/*This margin: 0 auto; centers the content on the page.*/
+  margin: 0 auto;
+}
+header {
+/*Adding padding on top, bottom, and sides.*/
+  padding: 20px 25px;
+	width:94%;
+	height:210px;
+	background: black;
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7S1RIoOo61dOTj1qjMKeh2S1EaHeE_8EQvbpVt3mAVfzPGPU1");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-top: 40px;
+	padding-top: 50px;
+}
+#headerimg{
+	width:250px;
+	 height:159px;
+	 margin-top: 75px;
+}
+article {
+  padding: 0 25px;
+  margin-top: 25px;
+}
+.photos {
+  margin: 0 auto;
+  width: 832px;
+  padding: 10px;
+  background: rgb(100,98,102);
+}
+img {
+  margin: 10px;
+  border: 2px solid white;
+
+}
+.normal {
+	width: 842px;
+	margin: 25px auto;
+	border: 1px solid black;
+	background: rgb(237, 228,214);
+	font-size: 90%;
+	padding: 0;
+}
+.normal h2 {
+	border: none;
+	background: rgb(219,126,64);
+	color: white;
+	padding: 5px 10px;
+}
+.normal p, .normal h3 {
+	padding: 0 10px;
+}
+
+h1 {
+	font-size: 3.6em;
+	font-weight: normal;
+	color: black;
+	margin: 150px;
+	text-align: center;
+	border-bottom: 1px solid black;
+	font-family: fantasy;
+}
+h2 {
+	font: 1.2em Arial, Helvetica, sans-serif;
+	border-bottom: 1px solid black;
+	margin-bottom: .4em;
+}
+h3 {
+	font: 1.1em Arial, Helvetica, sans-serif;
+	margin-bottom: .4em;
+	font-weight: bold;
+}
+p {
+	margin-bottom: 1em;
+	line-height: 1.6;
+}
+td{
+	text-align: center;
+	width: auto;
+	height: auto;
+	background-color: red;
+
+}
+a{
+	color: white;
+	text-decoration: none;
+}

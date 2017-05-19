@@ -1,0 +1,77 @@
+/*This line is telling any browser that doesn't supprt the newer HTML5 elements how thos should be displayed. In this case they should be treated as block-level elements.*/
+aside, article, section, header, footer, nav {
+	display: block;
+/* CSS Resets*/
+}
+div, h1, h2, h3, p, img {
+	margin: 0;
+	padding: 0;
+/* CSS Resets*/
+}
+html {
+	margin: 0;
+	padding: 0;
+	background: rgb(100, 98, 102);
+}/*Padding to keep content from bottom of page */
+
+body {
+
+	font: 100% Georgia, Times, serif;
+	background: rgb(255, 255, 255);
+  width: 900px;
+/*This margin: 0 auto; centers the content on the page.*/
+  margin: 0 auto;
+}
+header {
+/*Adding padding on top, bottom, and sides.*/
+  padding: 20px 25px;
+	background: black;
+}
+
+.photos {
+  margin: 0 auto;
+  width: 832px;
+  padding: 10px;
+  background: rgb(100,98,102);
+}
+img {
+  margin: 10px;
+  border: 2px solid white;
+}
+
+
+ 	h1 {
+	font-size: 1.6em;
+	font-weight: normal;
+	color: rgb(255,255,255);
+}
+h2 {
+	font: 2.2em Arial, Helvetica, sans-serif;
+	border-bottom: 1px solid black;
+  text-align: center;
+	color: black;
+
+}
+p {
+
+	line-height: 1.6;
+  text-align: center;
+	color: yellow;
+}
+td{
+	text-align: center;
+	width: auto;
+	height: auto;
+	background-color: red;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+
+#info{
+  background: url("https://www.48hourslogo.com/48hourslogo_data/2016/04/28/201604281411270.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
